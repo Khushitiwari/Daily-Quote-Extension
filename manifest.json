@@ -1,0 +1,24 @@
+{
+  "name": "Daily Quote",
+  "description": "Get a daily dose of Quotes!",
+  "version": "1.0",
+  "manifest_version": 3,
+
+  "permissions": [
+    "alarms",
+    "notifications"
+  ],
+
+  "host_permissions": [
+    "https://zenquotes.io/*"
+  ],
+
+  "background": {
+    "service_worker": "background.js"
+  },
+
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  }
+}
