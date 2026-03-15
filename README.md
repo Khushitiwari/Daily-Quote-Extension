@@ -1,10 +1,10 @@
-# 🌟 Daily Quote Chrome Extension
+#  Daily Quote Chrome Extension
 
 A simple and lightweight Chrome Extension that displays inspirational quotes to brighten your day.  
 Click the extension icon to get a motivational quote instantly and stay inspired while browsing.
 
 
-## 🚀 Features
+## Features
 
 ✨ Fetches motivational quotes from an API  
 📋 Copy quote to clipboard  
@@ -16,14 +16,14 @@ Chrome quote extensions are commonly used to provide small motivational reminder
 
 ---
 
-## 🖼️ Preview
+## Preview
 
-![Alt text](images/your-image-name.png)
+![Screenshot of extension](screenshot.png)
 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **HTML** – popup UI
 - **CSS** – styling
@@ -35,7 +35,9 @@ Chrome quote extensions are commonly used to provide small motivational reminder
 
 ---
 
-## 📂 Project Structure
+## Project Structure
+
+```
 Daily-Quote-Extension
 │
 ├── manifest.json # Extension configuration
@@ -45,10 +47,12 @@ Daily-Quote-Extension
 ├── style.css # Styling
 └── icon.png # Extension icon
 
+```
+
 
 ---
 
-## ⚙️ Installation (Run Locally)
+## Installation (Run Locally)
 
 1️⃣ Clone the repository
 
@@ -66,12 +70,12 @@ chrome://extensions/
 
 5️⃣ Select the project folder
 
-🎉 Your extension is now ready to use!
+Your extension is now ready to use!
 
 ---
 
 
-## 🧠 How It Works
+## How It Works
 - **Popup Logic (popup.js)**
 
 -Runs when the user clicks the extension icon
@@ -97,8 +101,8 @@ chrome://extensions/
 ---
 
 
-## 👩‍💻 Author
-## Khooshi Tiwari
+## Author:- Khooshi Tiwari
+
 
 
 
