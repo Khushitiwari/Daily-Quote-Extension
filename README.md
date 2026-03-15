@@ -20,6 +20,8 @@ Chrome quote extensions are commonly used to provide small motivational reminder
 
 ![Screenshot of extension](screenshot.png)
 
+![Screenshot of extension](Screenshot2.png)
+
 
 ---
 
